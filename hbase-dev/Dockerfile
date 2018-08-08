@@ -14,7 +14,7 @@
 FROM harisekhon/alpine-github:latest
 MAINTAINER Hari Sekhon (https://www.linkedin.com/in/harisekhon)
 
-ARG HBASE_VERSION=1.3.1
+ARG HBASE_VERSION=1.4.4
 
 ENV PATH $PATH:/hbase/bin
 
